@@ -1,11 +1,8 @@
 name    'cyberswat-jenkins'
 version '0.0.1'
-source 'UNKNOWN'
-author 'cyberswat'
-license 'UNKNOWN'
-summary 'UNKNOWN'
-description 'UNKNOWN'
-project_page 'UNKNOWN'
+author 'Kevin Bridges'
+license 'Apache Version 2.0'
+summary 'Jenkins module'
+description 'Simple Jenkins module for Ubuntu'
+project_page 'https://github.com/cyberswat/puppet-jenkins'
 
-## Add dependencies, if any:
-# dependency 'username/name', '>= 1.2.0'
